@@ -37,4 +37,4 @@ Facilitar el análisis de datos relacionados con:
 - Trazabilidad temporal de acciones y cobertura
 
 
-
+![DataWareHouse](https://raw.githubusercontent.com/Lady-Lopez-2025/Conectividad_Instituciones_Educativas_Boyaca/main/DataWareHouse/entidad_relacion.jpeg)
